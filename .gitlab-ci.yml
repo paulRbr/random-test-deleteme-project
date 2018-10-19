@@ -4,3 +4,4 @@ job1:
     - pwd
     - echo "It's mirrored and build is pushed!"
     - echo "modified from a git push"
+    - echo "modified on github"
