@@ -2,3 +2,4 @@ job1:
   script: 
     - ls -la
     - pwd
+    - echo "It's mirrored and build is pushed!"
