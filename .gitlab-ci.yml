@@ -1,5 +1,6 @@
 job1:
-  script: 
+  script:
     - ls -la
     - pwd
     - echo "It's mirrored and build is pushed!"
+    - echo "modified from a git push"
