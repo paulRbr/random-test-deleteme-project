@@ -5,3 +5,4 @@ job1:
     - echo "modified from a git push"
     - echo "modified on github again and again"
     - echo "coucou l'update depuis github UI"
+    - cat README
