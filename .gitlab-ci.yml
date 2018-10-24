@@ -6,3 +6,4 @@ job1:
     - echo "modified on github again and again"
     - echo "coucou l'update depuis github UI"
     - cat README.md
+    - echo "yet another test"
