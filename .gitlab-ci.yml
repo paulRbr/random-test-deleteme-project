@@ -7,4 +7,4 @@ job1:
     - echo "coucou l'update depuis github UI"
     - cat README.md
     - echo "yet another test"
-    - echo "multiple commits"
+    - echo "multiple commits, multiple :)"
